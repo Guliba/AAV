@@ -36,7 +36,7 @@ You can install the dependencies on your own or use one of the following conda-b
 ```
 conda install -c bioconda pysam
 conda install -c r ggplot2
-conda install -c r dpylr
+conda install -c r dplyr
 conda install -c r grid
 conda install -c r gridExtra
 ```
